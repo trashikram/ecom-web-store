@@ -1,0 +1,7 @@
+ ZION DDR3 (RAM)   X2
+ PROM (ROM)   X1
+ AMD Ryzen 7 (CPU)   X22
+ MSI MEG 2490 (Mboard)   X11
+ Logitech pro (Mouse)   X22
+ Western digital ITB (Hdisk)   X22
+ Logitech G305 (Mouse)   X11
